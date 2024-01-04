@@ -1,3 +1,7 @@
-BTL chiếm 60% điểm tổng (trong đó report 40%, code 30%, video 30%).
+The requirements of the final exam is in slide Lecture 10 (I belive so). 
 
-Tđn t 9 được nhể. Mà thôi thầy cũm dễ tính =)))) 
+My solution the final exam is in the IEEE file (Stupid me, forgot to change the name of the template file :((). It was graded 9. Not too high (in this class, I was not able to got bonus point), but for a solo, perhaps it was not bad.
+
+About the mid-term exam, it had 2 parts. The first part was multiple choice questions, there were 30 questions in the test. Unfortunately it was locked right after I took the test, so I cannot upload the questions here. The second part had 2 questions, the first one was about SVM, and the second one was about Regularized Linear Regression. 
+
+
